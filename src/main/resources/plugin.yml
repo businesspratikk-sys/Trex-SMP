@@ -1,0 +1,9 @@
+name: TrexSMP
+main: com.trexsmp.TrexSMP
+version: 1.0.0
+api-version: 1.21
+author: Atharv_Kumar
+commands:
+  trexsmp:
+    description: Trex SMP main command
+    usage: /trexsmp

@@ -1,0 +1,15 @@
+rituals:
+  nether_star:
+    action: spawn_boss
+    boss: zombie
+    effects: [lightning, particles]
+recipes:
+  trex_blade:
+    ingredients:
+      - netherite_sword
+      - totem_of_undying
+      - blaze_powder
+effects:
+  shadow_step:
+    type: invisibility
+    duration: 5
